@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Trần Hữu Nghiêm",
+      "phone": "022 9510 3972",
+      "email": "tranhuunghiem48@gmail.com",
+      "address": "South San Francisco",
+      "username": "admin",
+      "password": "THN1469tcd@$",
+      "avater": "https://cdn.fakercloud.com/avatars/Elt_n_128.jpg",
+      "createdAt": "23-09-2021",
+      "updatedAt": "26-09-2021"
+    }
+  ],
+  "images": [],
+  "blogs": [
+    {
+      "userId": "1",
+      "author": "1.Tran Huu Nghiem",
+      "name": "Card đồ họa bắt đầu giảm giá tại châu Âu sau mấy năm leo dốc",
+      "thumbnailUrl": "https://gamek.mediacdn.vn/133514250583805952/2022/1/27/photo-1-1643290892086624088393.jpg",
+      "typetrending": "trending",
+      "createdAt": "2022-01-27",
+      "categoryId": "3b060d65-8877-416e-abdc-9b90d3a9fcd0",
+      "textparagraphs": "<p class=\"ql-align-justify\"><strong>Sau mấy năm trời ròng rã leo dốc không thấy ngày về thì cuối cùng card đồ họa cũng bắt đầu giảm giá, ít nhất là tại châu Âu.</strong></p><p class=\"ql-align-justify\"><br></p><p>3DCenter đã theo dõi giá card đồ họa tại các nhà bán lẻ ở Đức, Áo và nhận ra rằng đã có 2 đợt giảm giá mạnh trong tháng 1 năm 2022. Đối với các dòng card đồ họa RTX 30 series thì mức giá của chúng đã giảm xuống còn 185% so với giá đề xuất vào hồi đầu tháng, và bây giờ thì đã giảm thêm còn 177%. GPU AMD cũng giảm xuống còn 178% so với mức giá đề xuất, sau đó tiếp tục giảm xuống còn 167%.</p><p class=\"ql-align-center\"><a href=\"https://gamek.mediacdn.vn/133514250583805952/2022/1/27/photo-1-1643290892086624088393.jpg\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: transparent;\"><em><img src=\"https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/27/photo-1-1643290892086624088393.jpg\" alt=\"Card đồ họa bắt đầu giảm giá tại châu Âu sau mấy năm leo dốc - Ảnh 1.\"></em></a></p><p>Các mẫu card đồ họa AMD Radeon RX 6800XT hiện đang được bán với giá 1279-1559 Euro, vẫn còn một khoảng cách khá xa so với mức giá mà chúng được đề xuất nhưng ít nhất là nó cũng giảm. Thế là sau mấy năm leo dốc không ngừng nghỉ thì cuối cùng giá card đồ họa cũng đã bắt đầu có xu hướng giảm một cách rõ ràng, ít nhất là ở châu Âu, cụ thể hơn là Đức và Áo. Hy vọng rằng xu hướng này ở châu Âu có thể tiếp tục lan rộng ra phần còn lại ở thế giới.</p><p class=\"ql-align-center\"><a href=\"https://gamek.mediacdn.vn/133514250583805952/2022/1/27/photo-1-16432908949421875015876.jpg\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: transparent;\"><em><img src=\"https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/27/photo-1-16432908949421875015876.jpg\" alt=\"Card đồ họa bắt đầu giảm giá tại châu Âu sau mấy năm leo dốc - Ảnh 2.\"></em></a></p><p>Cũng liên quan đến nhu cầu card đồ họa của thị trường thì các dòng card bình dân của Nvidia và AMD đã bắt đầu xuất hiện trong năm 2022, cứu nguy cho cả thị trường. Dù chắc chắn sẽ còn một chặng đường dài đến khi cung có thể theo kịp cầu và làm cho \"bão\" hoàn toàn qua đi, có lẽ đây vẫn là một trong những tín hiệu đáng mừng cho thấy ngày đó đang đến gần.</p><p><strong><em>Tóm tắt nội dung:</em></strong></p><p><span style=\"color: rgb(51, 51, 51);\">- 3DCenter đã theo dõi giá card đồ họa tại các nhà bán lẻ ở Đức, Áo và nhận ra rằng đã có 2 đợt giảm mạnh trong tháng 1/2022.</span></p><p><span style=\"color: rgb(51, 51, 51);\">- Đối với card Nvidia RTX 30 series thì hiện mức giá của chúng đã giảm xuống còn 177% so với giá đề xuất.</span></p><p><span style=\"color: rgb(51, 51, 51);\">- Card AMD cũng giảm xuống còn 167% so với mức giá đề xuất.</span></p><p class=\"ql-align-right\"><em>Nguồn PC Gamer </em></p><p class=\"ql-align-justify\"><br></p>",
+      "id": 1,
+      "updatedAt": "2022-01-27"
+    },
+    {
+      "userId": "1",
+      "author": "1.Tran Huu Nghiem",
+      "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "thumbnailUrl": "https://gamek.mediacdn.vn/133514250583805952/2022/1/27/photo-1-1643290892086624088393.jpg",
+      "typetrending": "trending",
+      "createdAt": "2022-01-31",
+      "categoryId": "3b060d65-8877-416e-abdc-9b90d3a9fcd0",
+      "textparagraphs": "<p class=\"ql-align-center\"><strong><img src=\"data:image/jpeg;base64,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\"></strong></p><p class=\"ql-align-center\"><strong>hhrhrhrhr</strong></p><p><br></p>",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": "3b060d65-8877-416e-abdc-9b90d3a9fcd0",
+      "name": "Technology",
+      "createdAt": 1632389954633,
+      "updatedAt": 1632389954633
+    },
+    {
+      "id": "3b060d65-8877-426e-abdc-9b90d3b8fcd1",
+      "name": "Software",
+      "createdAt": 1632389954633,
+      "updatedAt": 1632389954633
+    },
+    {
+      "id": "4bffc3a2-dbb4-4fa5-a334-859183045cae",
+      "name": "Life",
+      "createdAt": 1632389954633,
+      "updatedAt": 1632389954633
+    },
+    {
+      "id": "4bffd3a2-dbb4-4fa5-a344-859189045caf",
+      "name": "Food",
+      "createdAt": 1632389954633,
+      "updatedAt": 1632389954633
+    },
+    {
+      "id": "5bfdc3a2-dbb5-4fa5-a334-858183045cbe",
+      "name": "Shopping",
+      "createdAt": 1632389954633,
+      "updatedAt": 1632389954633
+    },
+    {
+      "id": "006d9f59-7a1d-44f3-a453-fb64ac04a2e4",
+      "name": "Sport",
+      "createdAt": 1632389954633,
+      "updatedAt": 1632389954633
+    }
+  ],
+  "about_us": [],
+  "contact_us": [
+    {
+      "id": "b5df00f3-abb5-49ac-9b9c-e8a83bdd6617",
+      "name": "Trần Hữu Nghiêm",
+      "phone": "021 4752 1256",
+      "email": "KhiCa62@gmail.com",
+      "message": "việc",
+      "createdAt": 1632389954633,
+      "updatedAt": 1632389954633
+    }
+  ],
+  "profile": {
+    "name": "Trần Hữu Nghiêm",
+    "email": "khongbietten3003@gmail.com"
+  }
+}
